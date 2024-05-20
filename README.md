@@ -1,0 +1,1 @@
+This is a Node.js checkpoint, here i wrote a node code to create a "txt" file, then i created a server. and then also wrote a code to generate random password and finally, sent an email using Nodemailer.
